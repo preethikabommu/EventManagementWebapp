@@ -35,10 +35,3 @@ An Event Management web application built with the **MERN Stack** (MongoDB, Expr
 
 ---
 
-## 🔧 Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/event-management-app.git
-cd event-management-app
