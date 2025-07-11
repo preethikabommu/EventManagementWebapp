@@ -34,4 +34,9 @@ An Event Management web application built with the **MERN Stack** (MongoDB, Expr
 - dotenv (environment variables)
 
 ---
-
+---
+Team Members:
+Tasneem Kauser Shaik (22BDS0402)
+Harsh Vilas Taware (22BCE2878)
+Bommu Lakshmi Satya Preethika(22BCE2405)
+Vayyavuru Ganapathy Manjusree(22BKT0061)
